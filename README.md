@@ -1,2 +1,1 @@
-# GlobalMacroeconomicIndicators.github.io
-global macroeconomic indicators
+# Global Macroeconomic Indicators
